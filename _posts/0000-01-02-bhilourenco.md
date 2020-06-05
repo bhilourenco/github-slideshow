@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Holy cow!
+Holy Molly!
 Use the left arrow to go back!
